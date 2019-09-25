@@ -14,7 +14,7 @@
 
 | :fish_cake:                   | :fish_cake:                            | :fish_cake:                         | :fish_cake:                   | :fish_cake:                     | :fish_cake:                       | :fish_cake:               | :fish_cake:                       |
 | ----------------------------- | -------------------------------------- | ----------------------------------- | ----------------------------- | ------------------------------- | --------------------------------- | ------------------------- | --------------------------------- |
-| [IDE插件](./0.IDE_plugins.md) | [Chrome插件](./1.chrome_extensions.md) | [Windows工具](./2.windows_tools.md) | [MacOS工具](./3.mac_tools.md) | [Linux工具](./4.linux_tools.md) | [Android应用](./5.android_app.md) | [iOS应用](./6.iOS_app.md) | [GitHub利器](./7.github_tools.md) |
+| [IDE插件](./0.IDE_plugins.md) | [Chrome插件](./1.chrome_extensions.md) | [Windows软件](./2.windows_tools.md) | [MacOS软件](./3.mac_tools.md) | [Linux软件](./4.linux_tools.md) | [Android应用](./5.android_app.md) | [iOS应用](./6.iOS_app.md) | [GitHub利器](./7.github_tools.md) |
 
 
 
