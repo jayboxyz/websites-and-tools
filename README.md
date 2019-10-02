@@ -5,28 +5,29 @@
 </div>
 
 
-分类收藏一些网站、工具和软件，记录些关于 Windows/Mac/Linux 系统的使用技巧和软件操作等，“工欲善其事，必先利其器”，提高做事效率，让效率成为一种习惯。
+分类收藏一些网站、工具和软件，记录一些关于 Windows/Mac/Linux 系统的使用技巧和软件操作等，“工欲善其事，必先利其器”，提高做事效率，让效率成为一种习惯。
 
 > 欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的资源、利器和技巧等。
 
 
 <h2 align="center" style="font-size:24px;font-weight: bold;">工具和应用</h2>
 
+
 | :fish_cake:                   | :fish_cake:                            | :fish_cake:                         | :fish_cake:                   | :fish_cake:                     | :fish_cake:                       | :fish_cake:               | :fish_cake:                       |
 | ----------------------------- | -------------------------------------- | ----------------------------------- | ----------------------------- | ------------------------------- | --------------------------------- | ------------------------- | --------------------------------- |
 | [IDE插件](./0.IDE_plugins.md) | [Chrome插件](./1.chrome_extensions.md) | [Windows软件](./2.windows_tools.md) | [MacOS软件](./3.mac_tools.md) | [Linux软件](./4.linux_tools.md) | [Android应用](./5.android_app.md) | [iOS应用](./6.iOS_app.md) | [GitHub利器](./7.github_tools.md) |
 
 
-
 <h2 align="center" style="font-size:24px;">操作和技巧</h2>
+
 
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon: | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- | ----------- |
 | [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-技能杂烩.md) |
 
 
-
 <h2 align="center" style="font-size:24px;">网站和书签</h2>
+
 
 ### 1. 各类网站
 
@@ -74,6 +75,7 @@
 - [SemanticScholar](<https://www.semanticscholar.org/>) - 一个免费学术搜索引擎，其检索结果来自于期刊、学术会议资料或者是学术机构的文献。
 - [科塔学术 - 科研与学术资源导航平台](<https://www.sciping.com/>)
 - [Overleaf中文版](<https://cn.overleaf.com/>) - Overleaf 是一个使用 LaTeX 进行多人协同编辑的平台，可以免费注册和使用，不用下载 LaTeX 软件，是最为著名的 LaTeX 在线协作系统。主要特色是有 LaTeX 插件，编辑功能十分完善，有实时预览（即编即看，无需手动编译）的功能。
+- [Grammarly](https://www.grammarly.com) - 英语语法纠正，为你检查那些自己未注意到的单词、语法、时态错误，并提供更准确的纠正方法。基础版免费。有 word 插件。
 - [语雀](<https://www.yuque.com/>) - 一个企业级协作服务，提供文档、表格、项目管理等协作工具，帮助企业沉淀、整理内部信息和知识。是阿里巴巴集团内部最大的文档平台，也是阿里系知识管理和团队协作的主要工具之一。现在个人也都是可以直接注册使用的，跟阿里员工一样使用所有功能。
 
 **博客|写作：**
@@ -199,6 +201,7 @@
 - [gliffy](https://www.gliffy.com/diagram-software)
 - [iSlide - 让PPT设计简单起来！](<https://www.islide.cc/>) - 一款基于 PowerPoint 的插件工具，使用它可以可以让你轻轻松松做出经验高大上的 PPT。
 - [英文大小写字母转换器 - 在线转换大小写字母,大写转小写,小写转大写](<https://dzhuli.com/daxiaoxie/>)
+- [維基詞典，自由的多語言詞典](https://zh.wiktionary.org/wiki/Wiktionary:%E9%A6%96%E9%A1%B5#%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BB%B4%E5%9F%BA%E8%AF%8D%E5%85%B8) - 可查各种语言词汇的语源、**读音**和解释。
 
 **工具|下载：** 
 
@@ -298,13 +301,14 @@
 - [Web前端导航](http://www.alloyteam.com/nav/)
 - [前端文档工具](http://www.css88.com/nav/)
 
-**工具箱：**
+**工具：**
 
 - [在线工具 —— 开源中国社区](http://tool.oschina.net/)
 - [在线工具 - 程序员的工具箱](https://tool.lu/)
 - [在线工具 - aTool - 最全面的工具集合](<http://www.atool9.com/>)
 - [站长工具 - 站长之家](<http://tool.chinaz.com/>)
   - [调色板](<http://tool.chinaz.com/Tools/onlinecolor.aspx>)
+- [codelf](https://unbug.github.io/codelf) - 写代码给变量命名比较纠结，可以试试这个。
 
 **编程学习：** 
 
@@ -427,6 +431,7 @@
 **求职|招聘：**
 
 - [牛客网](https://www.nowcoder.com/) - IT行业求职、招聘、刷题等。
+- [看准网](https://www.kanzhun.com/) - 中国雇主点评与职场信息平台。
 - IT/互联网专业的招聘网站：
   - [拉勾网-专业的互联网招聘平台_找工作_招聘_人才网_求职](https://www.lagou.com/)
   - [BOSS直聘-互联网招聘神器！](https://www.zhipin.com/)
