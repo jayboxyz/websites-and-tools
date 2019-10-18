@@ -12,7 +12,6 @@
 
 <h2 align="center" style="font-size:24px;font-weight: bold;">工具和应用</h2>
 
-
 | :fish_cake:                   | :fish_cake:                            | :fish_cake:                         | :fish_cake:                   | :fish_cake:                     | :fish_cake:                       | :fish_cake:               | :fish_cake:                       |
 | ----------------------------- | -------------------------------------- | ----------------------------------- | ----------------------------- | ------------------------------- | --------------------------------- | ------------------------- | --------------------------------- |
 | [IDE插件](./0.IDE_plugins.md) | [Chrome插件](./1.chrome_extensions.md) | [Windows软件](./2.windows_tools.md) | [MacOS软件](./3.mac_tools.md) | [Linux软件](./4.linux_tools.md) | [Android应用](./5.android_app.md) | [iOS应用](./6.iOS_app.md) | [GitHub利器](./7.github_tools.md) |
@@ -20,14 +19,12 @@
 
 <h2 align="center" style="font-size:24px;">操作和技巧</h2>
 
-
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon: | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- | ----------- |
 | [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-技能杂烩.md) |
 
 
 <h2 align="center" style="font-size:24px;">网站和书签</h2>
-
 
 ### 1. 各类网站
 
@@ -432,9 +429,11 @@
 
 - [牛客网](https://www.nowcoder.com/) - IT行业求职、招聘、刷题等。
 - [看准网](https://www.kanzhun.com/) - 中国雇主点评与职场信息平台。
+- [海投网]( https://www.haitou.cc/ ) - 2012 年开通域名。 定位于高校毕业生，为高校毕业生与知名企业搭建了一座有效的桥梁。
+- [应届生求职网](http://www.yingjiesheng.com/) -  提供最新、最全、最准确的应届大学毕业生校园招聘、兼职实习、校园宣讲会和校园招聘会信息。
 - IT/互联网专业的招聘网站：
-  - [拉勾网-专业的互联网招聘平台_找工作_招聘_人才网_求职](https://www.lagou.com/)
   - [BOSS直聘-互联网招聘神器！](https://www.zhipin.com/)
+  - [拉勾网-专业的互联网招聘平台](https://www.lagou.com/)
   - [跟对人\_互联网it公司最新招聘信息_互联网人才求职找工作网站](http://www.genduiren.cn/)
 - 其他招聘网站：
   - [智联招聘](https://www.zhaopin.com/)
