@@ -12,6 +12,7 @@
 
 <h2 align="center" style="font-size:24px;font-weight: bold;">工具和应用</h2>
 
+
 | :fish_cake:                   | :fish_cake:                            | :fish_cake:                         | :fish_cake:                   | :fish_cake:                     | :fish_cake:                       | :fish_cake:               | :fish_cake:                       |
 | ----------------------------- | -------------------------------------- | ----------------------------------- | ----------------------------- | ------------------------------- | --------------------------------- | ------------------------- | --------------------------------- |
 | [IDE插件](./0.IDE_plugins.md) | [Chrome插件](./1.chrome_extensions.md) | [Windows软件](./2.windows_tools.md) | [MacOS软件](./3.mac_tools.md) | [Linux软件](./4.linux_tools.md) | [Android应用](./5.android_app.md) | [iOS应用](./6.iOS_app.md) | [GitHub利器](./7.github_tools.md) |
@@ -19,12 +20,14 @@
 
 <h2 align="center" style="font-size:24px;">操作和技巧</h2>
 
+
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon: | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- | ----------- |
 | [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-技能杂烩.md) |
 
 
 <h2 align="center" style="font-size:24px;">网站和书签</h2>
+
 
 ### 1. 各类网站
 
@@ -224,9 +227,10 @@
 **在线办公|文档转换|处理：** 
 
 - [UZER.ME](https://uzer.me/) - UZER 是一个无需下载安装，就可以在浏览器中使用各种企业级大型软件（比如 Office 系列，PS，AutoCAD），无需安装插件，也不会占很多内存，打开网页就可以体验使用，而且几乎没有卡顿。
-- [PDF2go](https://www.pdf2go.com/zh/)
-- [Smallpdf](https://smallpdf.com/cn)
-- [iLovePDF](https://www.ilovepdf.com/zh_cn)
+- [PDF2go](https://www.pdf2go.com/zh/) - 在线 PDF 转换器，编辑，旋转和压缩 PDF 文件。
+- [Smallpdf](https://smallpdf.com/cn) - 所有 PDF 问题的免费解决方案。
+- [iLovePDF](https://www.ilovepdf.com/zh_cn) - 为 PDF 爱好者提供的 PDF 文件在线处理工具。
+- [LightPDF]( https://lightpdf.com/zh/ ) - 免费在线编辑、转换 PDF 文件。
 
 **格式转换：** 
 
