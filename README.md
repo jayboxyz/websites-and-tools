@@ -107,7 +107,7 @@
 
 **科普|科技：**
 
-- [李永乐老师的头条主页](<https://www.toutiao.com/c/user/4234740937/#mid=1566748645609474>) | B战：[李永乐老师官方](<https://space.bilibili.com/9458053>) - 高中数学、物理老师，北京大学双学士，清华大学硕士研究生。科普了知识，包括物理、电子、生活等等。  [荐]
+- [李永乐老师的头条主页](<https://www.toutiao.com/c/user/4234740937/#mid=1566748645609474>) | B战：[李永乐老师官方](<https://space.bilibili.com/9458053>) - 高中数学、物理老师，北京大学双学士，清华大学硕士研究生。科普了知识包括物理、电子、生活等等。  [荐]
 - [王珂的头条主页](<https://www.toutiao.com/c/user/token/MS4wLjABAAAAYOk-Tz5yXZnmNgkC64T4tL9bjlxoodnhbMIPFXEktu4/#mid=1559382930310146>) | B 战：[王珂Rocky](<https://space.bilibili.com/95257211>) - 讲解了很多科学原理，包括计算机、物理等等。   [荐]
 
 **工具|下载：**
@@ -452,7 +452,8 @@
 - [五百丁 - 中国领先的简历制作平台](http://www.500d.me/)
 - [乔布简历](http://cv.qiaobutang.com/)
 - [Docer稻壳儿](http://www.docer.com/)
-- [超级简历](https://www.wondercv.com/)
+- [超级简历](https://www.wondercv.com/) 
+- [592职业圈](https://www.job592.com/doc/5bebaaeae4b0f0140131ff08.html) - 简历模板下载。
 
 **兼职|实习：** 
 
