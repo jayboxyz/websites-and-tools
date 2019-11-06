@@ -212,6 +212,7 @@
 - [百度文库文档解析抓取工具](<http://bdwk.588230.com/>) - 百度文库付费 RMB 文档免费下载。
 - [PanDownload网页版](<https://www.baiduwp.com/>) - 在线百度网盘文件。  [荐]
 - [peterq/pan-light](<https://github.com/peterq/pan-light>) - 百度网盘不限速。
+- [个人所得税计算器](http://shui.apple886.com/)  |  [个税计算器](https://www.gerensuodeshui.cn/)
 
 **免费临时网盘：**
 
