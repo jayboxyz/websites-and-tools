@@ -12,7 +12,6 @@
 
 <h2 align="center" style="font-size:24px;font-weight: bold;">工具和应用</h2>
 
-
 | :fish_cake:                   | :fish_cake:                            | :fish_cake:                         | :fish_cake:                   | :fish_cake:                     | :fish_cake:                       | :fish_cake:               | :fish_cake:                       |
 | ----------------------------- | -------------------------------------- | ----------------------------------- | ----------------------------- | ------------------------------- | --------------------------------- | ------------------------- | --------------------------------- |
 | [IDE插件](./0.IDE_plugins.md) | [Chrome插件](./1.chrome_extensions.md) | [Windows软件](./2.windows_tools.md) | [MacOS软件](./3.mac_tools.md) | [Linux软件](./4.linux_tools.md) | [Android应用](./5.android_app.md) | [iOS应用](./6.iOS_app.md) | [GitHub利器](./7.github_tools.md) |
@@ -20,14 +19,12 @@
 
 <h2 align="center" style="font-size:24px;">操作和技巧</h2>
 
-
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon: | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- | ----------- |
 | [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-技能杂烩.md) |
 
 
 <h2 align="center" style="font-size:24px;">网站和书签</h2>
-
 
 ### 1. 各类网站
 
@@ -450,10 +447,10 @@
 
 - [冷熊简历](http://cv.ftqq.com/#) - 一款 Markdown 简历工具，支持 Markdown 实时预览，下载 MD 文件，一键转化为 PDF。另外添加了常用内容片段，简历内容自动实时保存。
 - [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume)
+- [超级简历WonderCV](https://www.wondercv.com/) - 可以用这个免费做一个简历，基本足够了。做出的简历看上去很简单，不像有些模版花里胡哨的。
 - [五百丁 - 中国领先的简历制作平台](http://www.500d.me/)
 - [乔布简历](http://cv.qiaobutang.com/)
 - [Docer稻壳儿](http://www.docer.com/)
-- [超级简历](https://www.wondercv.com/) 
 - [592职业圈](https://www.job592.com/doc/5bebaaeae4b0f0140131ff08.html) - 简历模板下载。
 
 **兼职|实习：** 
