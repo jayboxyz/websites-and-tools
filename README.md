@@ -165,14 +165,24 @@
 - [Free Logo Design](https://www.freelogodesign.org/)
 - [Logo Garden](https://www.logogarden.com/)
 
-**公号排版|封图制作：**
+**公众号|写作：**
 
-- [Markdown在线编辑器 - MdEditor](https://www.mdeditor.com/) - 在线 Markdown 写作。
-- [Cmd Markdown 编辑阅读器 - 作业部落出品](<https://www.zybuluo.com/mdeditor>) - 在线 Markdown 写作。
-- Lyric：[微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
-- 小胡子哥：[Online Markdown Converter](http://md.barretlee.com/)
-- 颜家大少：[Md2All](http://md.aclickall.com/)
-- [可能吧公众号 Style 一键转换](<https://knb.im/mp/>)
+- Markdown 在线写作：
+  - [Markdown在线编辑器 - MdEditor](https://www.mdeditor.com/) - 在线 Markdown 写作。
+  - [Cmd Markdown 编辑阅读器 - 作业部落出品](<https://www.zybuluo.com/mdeditor>) - 在线 Markdown 写作。
+
+- 公众号文章自动排版
+  - mdnice：[让微信排版变 Nice](https://mdnice.com/)
+  - Lyric：[微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
+  - 小胡子哥：[Online Markdown Converter](http://md.barretlee.com/)
+  - 颜家大少：[Md2All](http://md.aclickall.com/)
+  - [可能吧公众号 Style 一键转换](<https://knb.im/mp/>)
+- 微信公众号图文编辑工具
+  - 秀米编辑器
+  - 135编辑器
+  -  i排版
+- [壹伴](https://yiban.io/) - Chrome 插件。
+- [新媒体管家](https://xmt.cn/index) - Chrome 插件。
 - [Fotor在线设计](<https://www.fotor.com.cn/>)
 
 **杂七杂八：**
