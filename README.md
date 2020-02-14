@@ -12,6 +12,7 @@
 
 <h2 align="center" style="font-size:24px;font-weight: bold;">工具和应用</h2>
 
+
 | :fish_cake:                   | :fish_cake:                            | :fish_cake:                         | :fish_cake:                   | :fish_cake:                     | :fish_cake:                       | :fish_cake:               | :fish_cake:                       |
 | ----------------------------- | -------------------------------------- | ----------------------------------- | ----------------------------- | ------------------------------- | --------------------------------- | ------------------------- | --------------------------------- |
 | [IDE插件](./0.IDE_plugins.md) | [Chrome插件](./1.chrome_extensions.md) | [Windows软件](./2.windows_tools.md) | [MacOS软件](./3.mac_tools.md) | [Linux软件](./4.linux_tools.md) | [Android应用](./5.android_app.md) | [iOS应用](./6.iOS_app.md) | [GitHub利器](./7.github_tools.md) |
@@ -19,12 +20,14 @@
 
 <h2 align="center" style="font-size:24px;">操作和技巧</h2>
 
+
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon: | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- | ----------- |
 | [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-技能杂烩.md) |
 
 
 <h2 align="center" style="font-size:24px;">网站和书签</h2>
+
 
 ### 1. 各类网站
 
@@ -97,6 +100,7 @@
 - [闲鱼.淘宝二手 - 轻松卖闲置，放心淘二手](https://2.taobao.com/) - 二手买卖平台。
 - [拍拍](<https://www.paipai.com/>)  |  [拍拍二手京东自营旗舰店 - 京东](<https://jingdongyoupin.jd.com/>) - 拍拍，原名拍拍网、拍拍二手，起初是腾讯公司2005年推出的网络拍卖平台，现为京东旗下二手交易平台。
 - [转转](<http://www.zhuanzhuan.com/>) - 二手交易网。
+- [历史价格查询（京东、淘宝、天猫）](http://www.lsjgcx.com/) - 查询商品历史价格走势，京东、天猫、淘宝、亚马逊、苏宁、当当、考拉、严选、国美、新蛋等商品。
 
 **技能学习：** 
 
