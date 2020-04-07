@@ -1,11 +1,11 @@
 <a name="top"></a>
 
 <div align="center" style=“width:100%;”>
-        <img src="./assets/logo/logo.png" href="https://github.com/strivebo/websites-and-tools"></img>  
+        <img src="./assets/logo/logo.png" href="https://github.com/jayboxyz/websites-and-tools"></img>  
 </div>
 
 
-分类收藏一些网站、工具和软件，记录一些关于 Windows/Mac/Linux 系统的使用技巧和软件操作等，“工欲善其事，必先利其器”，提高做事效率，让效率成为一种习惯。
+分类收藏一些网站、工具和软件，记录一些关于 windows/macOS/linux 系统的使用技巧和软件操作等，“工欲善其事，必先利其器”，提高做事效率，让效率成为一种习惯。
 
 > 欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的资源、利器和技巧等。
 
@@ -23,7 +23,7 @@
 
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon: | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- | ----------- |
-| [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-技能杂烩.md) |
+| [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-杂七杂八.md) |
 
 
 <h2 align="center" style="font-size:24px;">网站和书签</h2>

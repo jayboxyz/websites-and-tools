@@ -169,6 +169,18 @@ https://www.zhihu.com/question/266170237/answer/489060104】
 
 
 
+## 如何删除 Chrome 地址栏记录？
+
+Windows：选择到需要删除的记录，“Shift + Delete”组合键，删除。
+
+Mac：Shift + fn + Delete”。
+
+参考：http://www.pc6.com/infoview/Article_103604.html
+
+
+
+
+
 ---
 
 *update：2019-04-16*

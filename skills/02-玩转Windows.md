@@ -401,6 +401,52 @@ Win+X -> 打开“设置” -> 打开“设备” -> 打开“触摸板”，选
 
 
 
+
+
+# 一些问题
+
+## windows10怎样把edge浏览器放到桌面上？
+
+桌面右键新建快捷方式，输入`%windir%\explorer.exe shell:::{4234d49b-0245-4df3-b780-3893943456e1}`，点击下一步完成，之后你会发现桌面出现一个名字为“explorer.exe”的文件夹图标，打开该文件夹，选中Microsoft Edge浏览器图标。鼠标右键点击图标出现菜单，选择创建快捷方式。之后就可以在桌面上找到Microsoft Edge浏览器的快捷方式。
+
+参考：[windows10怎样把edge浏览器放到桌面上_百度知道](https://zhidao.baidu.com/question/1240050229741517299.html)
+
+
+
+## Win7、Win10 以命令方式开启无线 wifi？
+
+**自动以管理员身份运行 bat 文件：**
+
+在 bat 文件最开始前输入如下：
+``` 
+@echo off
+>nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
+if '%errorlevel%' NEQ '0' (
+goto UACPrompt
+) else ( goto gotAdmin )
+:UACPrompt
+echo Set UAC = CreateObject^("Shell.Application"^) > "%temp%\getadmin.vbs"
+echo UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
+"%temp%\getadmin.vbs"
+exit /B
+:gotAdmin
+if exist "%temp%\getadmin.vbs" ( del "%temp%\getadmin.vbs" )
+pushd "%CD%"
+CD /D "%~dp0"
+```
+接下来接你写的批处理。参考：https://www.zhihu.com/question/34541107/answer/91159429
+
+---
+
+批处理文件 bat，如下方法试试：
+
+- [Win7系统建立并开启Wifi热点的bat批处理](https://blog.csdn.net/u010487568/article/details/33729901)
+- [不通过第三方软件，笔记本如何创建WIFI热点？-知乎](https://www.zhihu.com/question/48029520/answer/185470770)
+
+但我在 win10 采用如上方法开启 wiif 却都是没成功，有看到提示“无法启动承载网络”。后使用 [猎豹免费wifi](http://wifi.liebao.cn/) 却可以成功开启。
+
+
+
 ---
 
 *update：2019-07-15* 
