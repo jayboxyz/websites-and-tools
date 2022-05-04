@@ -7,7 +7,7 @@
 
 分类收藏一些网站、工具和软件，记录一些关于 windows/macOS/linux 系统的使用技巧和软件操作等，“工欲善其事，必先利其器”，提高做事效率，让效率成为一种习惯。
 
-> 欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的资源、利器，软件或系统使用技巧等。
+> 欢迎大家 star，也欢迎 PR 或 issue，分享和推荐你觉得不错的资源、利器，软件和使用技巧等。
 
 
 <h2 align="center" style="font-size:24px;font-weight: bold;">工具和应用</h2>
@@ -23,7 +23,7 @@
 
 | :full_moon:                             | :full_moon:                               | :full_moon:                           | :full_moon: | :full_moon:                             | :full_moon:                        | :full_moon:                                | :full_moon:                        |
 | --------------------------------------- | ----------------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------------ | ---------------------------------- | ----------- | ----------- |
-| [Office操作](./skills/01-玩转Office.md) | [Windows操作](./skills/02-玩转Windows.md) | [MacOS操作](./skills/03-玩转MacOS.md) | [Linux操作](./skills/04.玩转Linux.md) | [Chrome操作](./skills/05-玩转Chrome.md) | [手机操作](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [技能杂烩](./skills/08-杂七杂八.md) |
+| [Office使用](./skills/01-玩转Office.md) | [Windows使用](./skills/02-玩转Windows.md) | [MacOS使用](./skills/03-玩转MacOS.md) | [Linux使用](./skills/04.玩转Linux.md) | [Chrome使用](./skills/05-玩转Chrome.md) | [手机使用](./skills/06-玩转手机.md) | [硬件&系统重装](./skills/07-操作系统重装.md) | [杂七杂八](./skills/08-杂七杂八.md) |
 
 
 <h2 align="center" style="font-size:24px;">网站和书签</h2>
@@ -520,17 +520,11 @@
 **视频下载：** 
 
 - [舒克高清视频下载](http://www.shokdown.com/)
-
 - [硕鼠下载](http://www.flvcd.com/)
-
 - [微博、秒拍、小咖秀、晃咖视频解析下载](https://weibo.iiilab.com/)
-
 - [Apowersoft免费在线视频下载](https://www.apowersoft.cn/online-video-downloader) [国外]
-
 - [ClipConverter.cc](https://www.clipconverter.cc/) [国外]
-
 - [免费在线 YouTube 下载器-savefrom.net](https://zh.savefrom.net/) [国外]
-
 - [Video Grabber免费下载海量视频资源](https://www.videograbber.net/zh/) [国外]
 
   
