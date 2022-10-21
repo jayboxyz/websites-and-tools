@@ -1,3 +1,5 @@
+[toc]
+
 ## windows 常用快捷键
 
 - `Ctrl+R`：打开运行窗口
@@ -399,7 +401,14 @@ Win+X -> 打开“设置” -> 打开“设备” -> 打开“触摸板”，选
 
 
 
+## This beta version of Typora is expired, please download and install a newer version. 解决方案
 
+修改 Typora 相应注册表的权限：
+
+1. 打开注册表：按Windows+R打开运行窗口，输入 regedit。
+2. 进入路径计算机\HKEY_CURRENT_USER\SOFTWARE\Typora。
+3. 在右键菜单选择权限，把各个用户的权限全部设置为 拒绝。
+   
 
 
 

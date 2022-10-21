@@ -1,3 +1,5 @@
+[toc]
+
 # Office 操作与技巧
 
 ## Word

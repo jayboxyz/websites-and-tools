@@ -1,3 +1,5 @@
+[toc]
+
 # 熟悉各种快捷键，成为 Chrome 使用达人
 
 ## Google Chrome 官方文档 - [官方传送门](<https://support.google.com/chrome/answer/157179?hl=zh-Hans>)：
