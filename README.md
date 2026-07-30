@@ -522,6 +522,7 @@
 
 - [在线编辑视频](https://online-video-cutter.com/cn/)
 - [在线提取视频中音频](http://audio-extractor.net/cn/) 
+- [Video Size Reducer](https://videosizereducer.org) - 浏览器内压缩 MP4 视频，本地处理，无需上传
 
 **视频下载：** 
 
